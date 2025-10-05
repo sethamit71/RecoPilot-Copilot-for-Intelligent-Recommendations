@@ -1,0 +1,24 @@
+# Core
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+faiss-cpu
+huggingface-hub
+rank_bm25
+
+# LangChain + Ollama
+langchain
+google-ai-generativelanguage
+langchain-google-genai
+langchain_community
+
+# Optional helpers
+rapidfuzz
+python-multipart
+
+# UI
+streamlit
+
+matplotlib
