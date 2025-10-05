@@ -144,7 +144,8 @@ tvh-demo/
 
 ## 🎥 Demo Video
 
-▶️ [Watch Demo Video](https://github.com/sethamit71/RecoPilot-Copilot-for-Intelligent-Recommendations/blob/main/tvh-demo.mkv)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/067MD8OAp9M))
+
 
 ---
 
